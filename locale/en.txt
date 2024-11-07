@@ -1,0 +1,47 @@
+#: locale=en
+
+## Action
+
+### URL
+PopupWebFrameBehaviour_ED40D18A_FB5C_68AD_41E1_04F2D94C67D4.url = https://www.jumiranda.com.br
+
+## Media
+
+### Audio
+AudioResource_2D0EFBF8_2333_63C8_4199_13300BA6124A.mp3Url = media/audio_F2A97EE5_F916_5FAD_41DF_67FEE5E0D221_pt.mp3
+
+### Subtitle
+panorama_F2816B52_F8F2_628F_41E2_4DC7CD2D853A.subtitle = Projeto Juliana Miranda
+panorama_F16AD989_F8F2_619D_41EA_C12BF795B1FE.subtitle = Projeto Juliana Miranda
+panorama_F179366B_F8F3_A29D_41DB_581C32B24E47.subtitle = Projeto Juliana Miranda
+
+### Title
+panorama_F179366B_F8F3_A29D_41DB_581C32B24E47.label = Cozinha
+panorama_F2816B52_F8F2_628F_41E2_4DC7CD2D853A.label = Sala
+panorama_F16AD989_F8F2_619D_41EA_C12BF795B1FE.label = Varanda
+
+## Right Click Menu
+
+### Text
+TDVAuthor.label = www.FotoEstudio360.com.br
+
+## Skin
+
+### Dropdown
+DropDown_F4D7315F_F8F6_5EB5_41EB_7186EC47CC31.prompt = Selecione os ambientes
+
+## Tour
+
+### Description
+tour.description = Tour Virtual | Projeto de interiores em 360 graus | @FotoEstudio360
+
+### Title
+tour.name = Juliana Miranda | Arquitetura
+
+## VR Menu
+
+### Text
+MenuItem_7735933B_788D_C24B_41D3_EC37AC7F9399.label = Cozinha
+Menu_2D0EEBF8_2333_63C8_415D_9DCD7DE50EF4.label = Media
+MenuItem_7735833B_788D_C24B_41CB_180C4EFB3BC1.label = Sala
+MenuItem_7735633B_788D_C24B_41D7_ECC72C1F72AF.label = Varanda
